@@ -1,3 +1,7 @@
 .light-text {
     color: rgb(255, 253, 253);
 }
+
+.radioud-5px {
+    border-radius: 5px;
+}
